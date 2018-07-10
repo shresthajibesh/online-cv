@@ -9,38 +9,50 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Test
-    tagline: Full Stack Developer
+    name: Jibesh Shrestha
+    tagline: Mobile Application Deevloper / Learner
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: jibesh@shrestha.net.np 
+    #phone: 012 345 6789
+    #website: blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/shresthajibesh/
+    github: shresthajibesh
+    #twitter: '@webjeda'
 
     languages:
         - language:
-          idiom: English
+          idiom: Nepali
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
         - language:
-          idiom: Spanish
-          level: Professional
+          idiom: German
+          level: Basic
+        - language:
+          idiom: Newari
+          level: Fluent
+        - language:
+          idiom: Hindi
+          level: Basic
         
     interests:
         - interest:
-          item: Climbing
+          item: Reading
           link:
         - interest:
-          item: Snowboarding
+          item: Music and Movies
           link:
         - interest:
           item: Cooking
+          link:
+        - interest:
+          item: Gaming
+          link:
+        - interest:
+          item: Gardening
           link:
 
         
@@ -55,18 +67,18 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: Postgraduate Diploma in Applied Information Technology
+      university: Waikato Institute of Technology - Wintec
+      time: Feb 2018 - Nov 2018
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      degree: BSc (Hons) in Computinh
+      university: London Metropolitan University - Islington College 
+      time: 2011 - 2014
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -79,21 +91,25 @@ experiences:
     
     
     experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
+        - role: Mobile Application Developer
+          time: 2016 - 2018
+          company: Source Code Pvt. Ltd , Kathmandu
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
+        - role: Android Application Developer
+          time: 2015 - 2016
+          company: Braindigit IT Solutions Pvt. Ltd, Kathmandu
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
+        - role: Android Application Developer
+          time: 2014 - 2015
+          company: Inficare IT Solutions Pvt, Ltd, Kathmandu
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
+        - role: Android Application Developer/ Summer Internship
+          time: 2013 - 2013
+          company: Islington College / Third Pole Connects, Kathmandu
+          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 projects:
     title: Projects
@@ -149,23 +165,32 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Android
+          level: 80%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Java
+          level: 60%
         - skill:
-          name: Angular
-          level: 98%
+          name: Kotlin
+          level: 10%
+        - skill:
+          name: IOS
+          level: 10%
+        - skill:
+          name: Swift
+          level: 10%
+        - skill:
+          name: Objective C
+          level: 10%
+        - skill:
+          name: Python
+          level: 10%
         - skill:
           name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
+          level: 20%
         - skill:
           name: Sketch & Photoshop
-          level: 60%
+          level: 40%
 
 
 footer: 
