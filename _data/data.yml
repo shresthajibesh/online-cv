@@ -62,7 +62,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: '[UNDER CONSTRUCTION]Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: '[Pending] Thininking of a good line and a dashing long paragraph, but in short, I am a tech enthusiast and have been in this (all around) field for more than a decade. Started as with basic HTML and blowing up my SMPS. I am currently P.G of Applied I.T student (the Post Graduate one) and a developer with experience moslty in Android platform and a bit of IOS. Additionally with great interest I have been and am, dabbling around with other pltforms like Anguar, Typescript, C#, NodeJS, ASP, Kotlin and hopeful to learn stuff like Python, Blockchain, IOT (and may be AI). (I like to learn stuff) .<b>Looking for an oportunity to further experience the role of a developer (in any platform if given the opportinity) with companies small to BIG from all around the world</b>. '
 
 
 studies: 
@@ -70,19 +70,13 @@ studies:
       degree: Postgraduate Diploma in Applied Information Technology
       university: Waikato Institute of Technology - Wintec
       time: Feb 2018 - Nov 2018
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "[PENDING], Still figuring it out"
 
     - education:
       degree: BSc (Hons) in Computinh
       university: London Metropolitan University - Islington College 
       time: 2011 - 2014
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "[PENDING], Sleepless nights, took my tech studies (almost) seriously, learned stuff"
 
 
 
