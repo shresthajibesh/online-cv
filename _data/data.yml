@@ -90,7 +90,7 @@ experiences:
           company: Gallagher Group Limited , Hamilton, New Zealand
           details: As an intern developer, focuing on development of Web Application and services to integrate with the existing system using Angular and ASP.net Core. For the Academic part focusing on the analysis and project management side with the use of Agile framework. 
           
-          - role: Test Analyst
+        - role: Test Analyst
           time: 2018 
           company: Gallagher Group Limited , Hamilton, New Zealand
           details: Experiencing the role of a developers nightmare by performing manual as well as automated (learning slowly) tests. Addditionally also (independently) developing small utility applications to assists with the testing tasks and some others.
