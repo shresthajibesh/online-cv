@@ -4,33 +4,33 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Jibesh Shrestha
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Jibesh Shrestha
-    tagline: Mobile Application Developer / Learner
+    tagline: Developer, Learner and a zombie like student
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: jibesh@shrestha.net.np 
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/shresthajibesh/
+    linkedin: shresthajibesh
     github: shresthajibesh
     #twitter: '@webjeda'
 
     languages:
-        - language:
-          idiom: Nepali
-          level: Native
-        - language:
+      - language:
           idiom: English
-          level: Professional
-        - language:
+          level: Professional  
+      - language:
           idiom: German
           level: Basic
+      - language:
+          idiom: Nepali
+          level: Native  
         - language:
           idiom: Newari
           level: Fluent
@@ -62,7 +62,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: '[Pending] Thininking of a good line and a dashing long paragraph, but in short, I am a tech enthusiast and have been in this (all around) field for more than a decade. Started as with basic HTML and blowing up my SMPS. I am currently P.G of Applied I.T student (the Post Graduate one) and a developer with experience moslty in Android platform and a bit of IOS. Additionally with great interest I have been and am, dabbling around with other pltforms like Anguar, Typescript, C#, NodeJS, ASP, Kotlin and hopeful to learn stuff like Python, Blockchain, IOT (and may be AI). (I like to learn stuff) .<b>Looking for an oportunity to further experience the role of a developer (in any platform if given the opportinity) with companies small to BIG from all around the world</b>. '
+    text: '[Pending] Thinking of a good line and a dashing long paragraph, but in short, I am a tech enthusiast and have been in this (all around) field for more than a decade. Started as with basic HTML and blowing up my SMPS. I am currently P.G of Applied I.T student (the Post Graduate one) and a developer with experience moslty in Android platform and a bit of IOS. Additionally, with great interest, I have been and am, dabbling around with other platforms like Angular, Typescript, C#, NodeJS, ASP, Kotlin and hopeful to learn stuff like Python, Blockchain, IOT (and maybe AI). (I like to learn stuff). <b>Looking for an oportunity to further experience the role of a developer (in any platform if given the opportinity) with companies small to BIG from all around the world.</b>'
 
 
 studies: 
@@ -70,81 +70,78 @@ studies:
       degree: Postgraduate Diploma in Applied Information Technology
       university: Waikato Institute of Technology - Wintec
       time: Feb 2018 - Nov 2018
-      details: "[PENDING], Still figuring it out"
+      details: "[PENDING], Still figuring it out, but mostly dabbling with the concept of how a complex piece of software buds from a need or an idea."
 
     - education:
       degree: BSc (Hons) in Computinh
       university: London Metropolitan University - Islington College 
       time: 2011 - 2014
-      details: "[PENDING], Sleepless nights, took my tech studies (almost) seriously, learned stuff"
+      details: "[PENDING], Sleepless nights, learned stuff"
 
 
 
 experiences:
     title: Experiences
-    
-    
     experiences:
         - role: Intern Developer
           time: 2018 
           company: Gallagher Group Limited , Hamilton, New Zealand
-          details: As an intern developer, focuing on development of Web Application and services to integrate with the existing system using Angular and ASP.net Core. For the Academic part focusing on the analysis and project management side with the use of Agile framework. 
+          details: As an intern developer, focusing on the development of Web Application and services to integrate with the existing system using Angular and ASP.net Core. For the Academic part focusing on the analysis and project management side with the use of an Agile framework. 
           
         - role: Test Analyst
           time: 2018 
           company: Gallagher Group Limited , Hamilton, New Zealand
-          details: Experiencing the role of a developers nightmare by performing manual as well as automated (learning slowly) tests. Addditionally also (independently) developing small utility applications to assists with the testing tasks and some others.
+          details: Experiencing the role of a developers nightmare by performing manual as well as automated (learning slowly) tests. Additionally also (independently) developing small utility applications to assists with the testing tasks and some others.
           
         - role: Mobile Application Developer
           time: 2016 - 2018
           company: Source Code Pvt. Ltd , Kathmandu
-          details: Initally started as an Android Application Developer and later on expanded to IOS platform as well. Technically focused on creating frameworks and modules for applications for diverse sectors like e-commerce, (award winning) online stock market and mobile info protals. Additionally also dabbled with implementation of SCRUM framework on newly establised office and team.
+          details: Initially started as an Android Application Developer and later on expanded to IOS platform as well. Technically focused on creating frameworks and modules for applications for diverse sectors like e-commerce, (award-winning) online stock market and mobile info portals. Additionally also dabbled with the implementation of the SCRUM framework on newly established office and team.
 
         - role: Android Application Developer
           time: 2015 - 2016
           company: Braindigit IT Solutions Pvt. Ltd, Kathmandu
-          details: Furthering my Android experience, primary focus was development of responsive and beautiful applications for ecommerce platforms like Redeem (AU and NZ)| Listbingo,  management platforms, like HRISON(Pepal)| Sports Pass, info portals like Subisu....  Additionally also had fun with development of modules / reusable components like map maker,custom calendar, etc. Besides a developer, also assisted SCRUM master on frequent basis. 
+          details: Furthering my Android experience, the primary focus was the development of responsive and beautiful applications for e-commerce platforms like Redeem (AU and NZ)| Listbingo,  management platforms, like HRISON(Pepal)| Sports Pass, info portals like Subisu...  Additionally also had fun with the development of modules / reusable components like map maker, custom calendar, etc. Besides a developer, also assisted SCRUM master on a frequent basis. 
         
         - role: Android Application Developer
           time: 2014 - 2015
           company: Inficare IT Solutions Pvt, Ltd, Kathmandu
-          details: As an entry level developer, started with development of parts and modules of m-commerce applications (mobile payment utility services) followed by independent mobile application devveloper. Tried (and introduced) working framework,highly influenced by DSDM framework (but failed).
+          details: As an entry-level developer started with the development of various component for the existing m-commerce applications (mobile payment utility services) followed by independent mobile application developer. Even though it was unsuccessful, tried to (and introduced) management framework, highly influenced by the DSDM framework.
 
         - role: Android Application Developer/ Summer Internship
           time: 2013 - 2013
           company: Islington College / Third Pole Connects, Kathmandu
-          details: As an intern developer, tried and experiened team work and development (in practise). Learned PHP for web application and service development and Android for mobile friendly version of the system. (Failed but) had a blast learning and experiencing the actual market as well as do's and dont's in a project.
+          details: As an intern developer tried and experienced team work and development (in practice). Learned PHP for web application and service development and Android for a mobile-friendly version of the system. (Failed but) had a blast learning and experiencing the actual market as well as do's and do not's in a project.
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "In this journey as a mobile application developer, the following are some of the projects I had fun working on:"
     
     projects:
       - project:
         title: Nepali Paisa
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://itunes.apple.com/de/app/nepali-paisa/id1219752008?l=en&mt=8"
+        tagline: "Took over a comatose IOS project and migrated to Swift 4.0 as well as published it the AppStore. Added multiple components. Implemented MVP pattern. Upgraded the used libraries."
       - project:
         title: Redeem Australia
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://play.google.com/store/apps/details?id=com.redeem&hl=en"
+        tagline: "Developed and maintained the Android version of the application. Restructured the code into multiple layers for logic segregation, easy maintenance as well as to support multiple flavours. Converted the existing project to base project and derived a flavour for Australia. Optimised the application to consume less bandwidth as well as memory. Change the HTTP library from Http Async to OK Http. "
       - project:
         title: Redeem New Zealand
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://play.google.com/store/apps/details?id=nz.redeem"
+        tagline: "Developed as a new flavour of the existing application, modified / Configured the application to customise according to regional requirements."
+      - project:
+        title: Pepal
+        link: "https://play.google.com/store/apps/details?id=com.braindigit.pepal"
+        tagline: "As a part of the mobile team developed the Android version of the application. This included development application framework as well as custom views and components."
       - project:
         title: 724 Arabul
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://play.google.com/store/apps/details?id=com.braindigit.arabul"
+        tagline: "As a junior developer worked under the direct supervision of team leader. Derived from an existing eclipse base application, migrated the project to Android Studio and added components based on the new requirements, unified and customised the app theme to match the customers need."
       - project:
         title: Nepse
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
-
+        link: "https://itunes.apple.com/us/app/nepse/id1002307369?mt=8"
+        tagline: "Took over the comatose (Objective C) IOS project and upgraded it to support IOS version 10. Removed a major bug (App Crash). Added new components such as Market Match and Portfolio. Updated the resources and code to better support different screen resolutions (new iPhones). Managed the developer account and published the application to the AppStore."
 
 #publications:
 #    title: Publications
@@ -170,10 +167,22 @@ skills:
     skills:
         - skill:
           name: Android
-          level: 80%
+          level: 70%
         - skill:
           name: Java
-          level: 60%
+          level: 50%
+        - skill:
+          name: C#
+          level: 30%
+        - skill:
+          name: Anguar
+          level: 25%
+        - skill:
+          name: TypeScript
+          level: 30%
+        - skill:
+          name: .net Core
+          level: 15%
         - skill:
           name: Kotlin
           level: 10%
@@ -183,18 +192,7 @@ skills:
         - skill:
           name: Swift
           level: 10%
-        - skill:
-          name: Objective C
-          level: 10%
-        - skill:
-          name: Python
-          level: 10%
-        - skill:
-          name: HTML5 & CSS
-          level: 20%
-        - skill:
-          name: Sketch & Photoshop
-          level: 40%
+        
 
 
 footer: 
