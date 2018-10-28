@@ -22,21 +22,15 @@ sidebar:
     #twitter: '@webjeda'
 
     languages:
-      - language:
+        - language:
           idiom: English
-          level: Professional  
-      - language:
-          idiom: German
-          level: Basic
-      - language:
-          idiom: Nepali
-          level: Native  
-      - language:
-          idiom: Newari
-          level: Fluent
-      - language:
-          idiom: Hindi
-          level: Basic
+          level: Native
+        - language:
+          idiom: French
+          level: Professional
+        - language:
+          idiom: Spanish
+          level: Professional
         
     interests:
         - interest:
