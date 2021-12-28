@@ -7,7 +7,7 @@
        font-size: 12pt;
     }
 
-    img.profile-img {
+    img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
@@ -35,5 +35,11 @@
        background-color: black !important;
        -webkit-print-color-adjust: exact; 
     }
+
+   .fa-inverse,
+   .fa-inverse:after,
+   .fa-inverse:before {
+     color: #ffffff !important;
+   }
 
 }
